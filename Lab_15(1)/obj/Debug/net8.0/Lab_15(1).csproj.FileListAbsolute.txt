@@ -1,0 +1,14 @@
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\bin\Debug\net8.0\Lab_15(1).exe
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\bin\Debug\net8.0\Lab_15(1).deps.json
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\bin\Debug\net8.0\Lab_15(1).runtimeconfig.json
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\bin\Debug\net8.0\Lab_15(1).dll
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\bin\Debug\net8.0\Lab_15(1).pdb
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\Lab_15(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\Lab_15(1).AssemblyInfoInputs.cache
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\Lab_15(1).AssemblyInfo.cs
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\Lab_15(1).csproj.CoreCompileInputs.cache
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\Lab_15(1).dll
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\refint\Lab_15(1).dll
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\Lab_15(1).pdb
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\Lab_15(1).genruntimeconfig.cache
+C:\Users\mikha\source\repos\Lab_15(1)\Lab_15(1)\obj\Debug\net8.0\ref\Lab_15(1).dll
